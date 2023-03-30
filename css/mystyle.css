@@ -1,3 +1,22 @@
 .icon-fab{
     font-size: 300%;
+    transition: color 1s ease, font-size 1s ease;
 }
+
+.icon-fab:hover{
+    color: black;
+    font-size: 400%;
+}
+
+.social-icon{
+    transition: background-color 1s ease;
+}
+
+#informacao{
+    transition: color 1s ease;
+}
+
+#informacao:hover{
+    color: black;
+}
+
